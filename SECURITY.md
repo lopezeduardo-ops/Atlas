@@ -1,4 +1,4 @@
-GRAGC# Security Policy
+GRAGC#  Security Policy
 
 ## Supported Versions
 
